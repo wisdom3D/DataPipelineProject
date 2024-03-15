@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: wheathersummary
+    description: " Summary whether data"
+    columns:
+      - name: Pays
+        description: "le pays"
+      - name: Ville
+        description: "la ville"
+  - name: BeninTest
+    description: "Summary Benin whether data"
+    columns:
+      - name: Pays
+        description: "le pays"
+      - name: Ville
+        description: "la ville"
